@@ -4,6 +4,7 @@ public class DemoBean {
 	
 	public String toString() {
 		
-		return "HelloSpring!";
+		
+		return "Hel    loSpring!";
 	}
 }
